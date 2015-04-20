@@ -36,7 +36,7 @@ If you happen to delete files and would like to commit the change, do this inste
 
 Remember that git creates a local repository in you local directory. The add and commit commands above only send changes to that local repository. If you want the changes moved to the master repository (what's at https://github.com/bcarls/aRMicroBooNE_test_2), you need to perform the following:
 
-    git push
+    git push origin master
     
 When people run the pull command above to update their version, they will see your changes and be able to use them. 
 

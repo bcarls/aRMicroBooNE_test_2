@@ -70,8 +70,13 @@ public class ImageTargetTrackableEventHandler : MonoBehaviour,
                 {
                      component.enabled = true;
                 }
+
             }
             else if(component.gameObject.name == "teapot")
+            {
+                component.enabled = true;
+            }
+            else if(component.gameObject.transform.parent.gameObject.name == "TPC7")
             {
                 component.enabled = true;
             }
@@ -88,6 +93,10 @@ public class ImageTargetTrackableEventHandler : MonoBehaviour,
                     }
                 }
             else if(component.gameObject.name == "teapot")
+            {
+                component.enabled = true;
+            }
+            else if(component.gameObject.transform.parent.gameObject.name == "TPC7")
             {
                 component.enabled = true;
             }

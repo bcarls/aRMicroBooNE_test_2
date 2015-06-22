@@ -6,7 +6,7 @@ The author of this README.md (Ben) stresses that this is one of the first GitHub
 
 ## A word about Unity versions
 
-Git and Unity don't really get along all that well. In order to make them better bedfellows, it's recommended that everyone working uses the same version of Unity. The repository currently uses version 5.0.1. 
+Git and Unity don't really get along all that well. In order to make them better bedfellows, it's recommended that everyone working uses the same version of Unity. The repository currently uses version 5.1. 
 
 ## Check out the code
 

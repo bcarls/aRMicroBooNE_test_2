@@ -76,7 +76,7 @@ public class ImageTargetTrackableEventHandler : MonoBehaviour,
             {
                 component.enabled = true;
             }
-            else if(component.gameObject.transform.parent.gameObject.name == "TPC7")
+            else if(component.gameObject.transform.parent.gameObject.name == "TPC9_copy3")
             {
                 component.enabled = true;
             }
@@ -96,7 +96,7 @@ public class ImageTargetTrackableEventHandler : MonoBehaviour,
             {
                 component.enabled = true;
             }
-            else if(component.gameObject.transform.parent.gameObject.name == "TPC7")
+            else if(component.gameObject.transform.parent.gameObject.name == "TPC9_copy3")
             {
                 component.enabled = true;
             }

@@ -22,7 +22,7 @@ function OnGUI () {
 
     // Make the second button.
     if (GUI.Button (Rect (20,70,80,20), "Cathode")) {
-        for(var child : Transform  in MeshRenderer)
+        for(var child : Transform  in transform)
         {
           if(child.name == "Cathode"){
             if(child.GetComponent(MeshRenderer).enabled == true)

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="SideWall" size="400.000000 135.827713" />
+    <ImageTarget name="FloorBanner" size="350.000000 55.062305" />
+    <ImageTarget name="DisplayOutside" size="250.000000 365.957458" />
+    <ImageTarget name="DisplayInside" size="250.000000 360.318451" />
+    <ImageTarget name="Bison" size="250.000000 196.841934" />
+    <ImageTarget name="AmazingNeutrinos" size="400.000000 114.545456" />
+  </Tracking>
+</QCARConfig>

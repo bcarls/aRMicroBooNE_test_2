@@ -316,11 +316,11 @@ public class ImageTargetUIEventHandler : ISampleAppUIEventHandler {
     {
         if(val == 0)
         {
-            ActivateDataSet("StonesAndChips");
+            ActivateDataSet("AtriumEdit");
         }
         else 
         {
-            ActivateDataSet("Tarmac");
+			ActivateDataSet("AtriumEdit");
         }
         
         OnTappedToClose();
@@ -394,7 +394,7 @@ public class ImageTargetUIEventHandler : ISampleAppUIEventHandler {
                         component.enabled = !tf;
                 }
             }
-        }   
+        }
     }
     
     /// <summary>

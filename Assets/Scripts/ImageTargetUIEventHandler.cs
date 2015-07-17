@@ -316,7 +316,7 @@ public class ImageTargetUIEventHandler : ISampleAppUIEventHandler {
     {
         if(val == 0)
         {
-            ActivateDataSet("AtriumEdit");
+            ActivateDataSet("Wall");
         }
         else 
         {

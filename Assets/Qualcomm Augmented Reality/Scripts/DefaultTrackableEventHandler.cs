@@ -10,7 +10,7 @@ namespace Vuforia
 {
     /// <summary>
     /// A custom handler that implements the ITrackableEventHandler interface.
-    /// </summary>
+	/// </summary>
     public class DefaultTrackableEventHandler : MonoBehaviour,
                                                 ITrackableEventHandler
     {
